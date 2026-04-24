@@ -8,3 +8,9 @@
     打开「命令提示符」或「PowerShell」，执行：pip install pypdf
 运行脚本
     双击该 .py 文件（Windows 默认用 Python 运行）→ 窗口将自动弹出、执行、暂停，全程可视化反馈或在命令行中进入脚本所在目录，执行：python extract_first_pages.py
+
+
+# PDFpageextractionby-4cycle
+使用python语言批量提取C:\Users\Administrator\Desktop\215\combined.pdf目录下pdf规律页码。4页一组，提取前两页。之后将所有首页合并成一个PDF文件输出到当前目录下。
+
+均由生成式人工智能大模型Kimi-2-5产生。使用大模型逐个尝试生成代码是否满足需求，择取实际可用的上传此处备份。
